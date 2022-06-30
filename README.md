@@ -1,4 +1,4 @@
--  Hi, I’m karo amini, master student of Telecommunication Engineering at Politecnico di Milano University. Also graduated master student of Mechatronics at BAM univerdity in Iran, and Bachelor degree in Electronics engineering.
+-  Hi, I’m karo amini, master student of Telecommunication Engineering at Politecnico di Milano University. Also graduated master of Mechatronics at BAM univerdity in Iran, and Bachelor degree in Electronics engineering.
 -  I’m interested in Mobile Radio Networks, Image Processing, Audio processing Machine Learning, and Internt Of Things.
 -  I’m currently learning Python and MATLAB
 -  I'm looking forward for finding an internship position in the fields of Mobile Radio Networks, Image Processing, Machine Vision IoT, and topics related to them.
